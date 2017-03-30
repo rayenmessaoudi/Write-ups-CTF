@@ -1,5 +1,5 @@
 >  Pwn the service and read the the value of flag variable
-> nc challenge.hackfest.tn 5001 
+>  nc challenge.hackfest.tn 5001 
 
 
 
