@@ -1,5 +1,9 @@
-#[HackFest Qualification 2017]
-#not the most elegent code :p
+"""
+[HackFest Qualification 2017]
+not the most elegent code :p
+flag : hackfest{it_was_b58}
+"""
+
 
 def ff(x):
 	p = 1
