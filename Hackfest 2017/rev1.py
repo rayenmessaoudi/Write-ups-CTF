@@ -12,7 +12,7 @@ def ff(x):
 		p = p << 8
 		if p > x :
 			return s
-			break
+			
 
 
 ch = '2GYhdiSLoJTRvASGXjIHtatb9Kdr'
