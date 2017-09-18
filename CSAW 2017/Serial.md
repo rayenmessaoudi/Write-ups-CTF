@@ -15,7 +15,7 @@ Ending bit[10] always = 1
 Parity bit[9] if the number of '1' is even, the parity bit should be 0, and if it is odd the parity bit should be 1   
 Data bit[1-8]
 
-We need just to check if the parity bit is equal to the number of ones on the byte mod by 2 and then append data (character) representation of that byte to our flag
+We need just to check if the parity bit is equal to the number of ones in the byte mod by 2 and then append data (character) representation of that byte to our flag
 
 
 ```
