@@ -12,7 +12,7 @@ Just googling name challenge (serial) with 8-1-1 we got the first link of [wikip
 
 Starting bit[0] always = 0    
 Ending bit[10] always = 1    
-Parity bit[9] if the number of '1' is even, the parity bit should be 1, and if it is odd the parity bit should be 0    
+Parity bit[9] if the number of '1' is even, the parity bit should be 0, and if it is odd the parity bit should be 1   
 Data bit[1-8]
 
 We need just to check parity and then append data (character) representation of that byte to our flag
