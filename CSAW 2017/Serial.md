@@ -32,7 +32,7 @@ while(True):
         parity = byte[9]
         if  d.count('1') % 2 == int(parity):
                 flag += chr(int(d,2))
-                print f
+                print flag
                 sock.send("1")
         else:
                 sock.send("0")
