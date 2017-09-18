@@ -38,6 +38,9 @@ while(True):
                 sock.send("0")
 
 ```
-        { flag{@n_int3rface_betw33n_data_term1nal_3quipment_and_d@t@_circuit-term1nating_3quipment}}
+
+```
+flag{@n_int3rface_betw33n_data_term1nal_3quipment_and_d@t@_circuit-term1nating_3quipment}
+```
 
 ![sss](https://raw.githubusercontent.com/rayenmessaoudi/Write-ups-CTF/master/CSAW%202017/Capture.PNG)
