@@ -1,3 +1,5 @@
+Flag : HMIYC{ham_galou_3malna_thawra}
+
 Change the date system to "2011-01-14" and run this dirty script :p 
 
 ```python
@@ -14,4 +16,3 @@ while 1:
 		gdb.execute("ni",True,True)
 
 ```
-![](https://github.com/aminekaabachi/hackmeifyoucan6/blob/master/Rev/Tunisian%20Revolution/chall.png?raw=true)
