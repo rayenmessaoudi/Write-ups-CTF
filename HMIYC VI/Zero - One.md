@@ -1,3 +1,6 @@
+Flag : HMIYC{hide_in_plain_sight}
+
+
 ```python
 from pwn import *
 conn = remote('137.74.166.111',443)
