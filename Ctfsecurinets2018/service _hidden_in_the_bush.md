@@ -76,6 +76,6 @@ if __name__ == '__main__':
 	except:
 		print >>sys.stderr,'can\'t open or write file %s' % args.path
 ```
-python script.py
-cat dump.json
-[{"value": "Flag{M3mc4cH3d_3xp0s3d}", "len": "23", "key": "flag"}]
+python script.py  
+cat dump.json  
+[{"value": "Flag{M3mc4cH3d_3xp0s3d}", "len": "23", "key": "flag"}]  
